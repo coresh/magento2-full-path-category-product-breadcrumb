@@ -13,9 +13,20 @@ You can also define the "bad categories" you do not want to display in product b
 - Magento 2.x
 - Composer
 
+# Install:
+
+Step 1:
+
+```
+composer config repositories.coresh-module-fullbreadcrumbs git https://github.com/coresh/module-fullbreadcrumbs
+```
+Step 2
+
 ```
 composer require coresh/module-fullbreadcrumbs
 ```
+src:
+https://github.com/EaDesgin/magento2-full-path-category-product-breadcrumb
 
 # Configuration:
 
